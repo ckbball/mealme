@@ -1,0 +1,7 @@
+Data Models:
+
+User
+Id
+email
+password
+CreatorProfile
